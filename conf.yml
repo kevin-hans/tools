@@ -1,0 +1,5 @@
+git_root_path: path of local git folder 
+commits: commits.txt
+files: files.txt
+commit_info: commit-info.tsv
+output_folder: FILES_ON_
